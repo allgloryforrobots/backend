@@ -1,0 +1,4 @@
+npm init -y // генерация package.json
+npm install -g heroku
+heroku login
+heroku create
